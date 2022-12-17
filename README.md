@@ -10,7 +10,7 @@ The FIFA World Cup 2022™ in Qatar is the first to be hosted in the Middle East
 ### Unique characteristics of the tournament
 
 <p>A key objective of the FIFA World Cup 2022™ is that it serves as a catalyst for the achievement of Qatar’s long-term development goals as laid out in the Qatar National Vision 2030 and the National Development Strategy 2018-2022.</p>
-![image](https://user-images.githubusercontent.com/74112721/208225372-50cb9b34-95fe-4148-b078-d98837513dce.png)<br>
+![image](https://user-images.githubusercontent.com/74112721/208225372-50cb9b34-95fe-4148-b078-d98837513dce.png)
 
 ### STADIUM LOCATIONS
 
